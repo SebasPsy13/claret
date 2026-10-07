@@ -25,3 +25,6 @@ Sin configurar nada corre en **modo demo** (datos en el navegador). Usuarios: `p
 ## Recomendaciones
 - Los datos son clínicos y sensibles: mantén desactivado el registro público en Supabase, usa contraseñas fuertes y respeta la normativa de protección de datos personales.
 - Plantilla PDF: el diseño actual está en `src/lib/pdf.js`; se ajusta a la plantilla institucional en cuanto se comparta.
+
+## Correr localmente con un clic
+Requiere [Node.js 18+](https://nodejs.org). Mac/Linux: `./iniciar.sh` · Windows: doble clic a `iniciar.bat`. Abre http://localhost:4173.
